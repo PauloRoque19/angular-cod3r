@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": "7.99"
+    },
+    {
+      "id": 2,
+      "name": "Teclado Gamer",
+      "price": 220.99
+    },
+    {
+      "id": 3,
+      "name": "Mouse Gamer Plus Ultra Edition White",
+      "price": 500.9
+    },
+    {
+      "name": "Oasdk",
+      "price": 49.9,
+      "id": 4
+    },
+    {
+      "name": "Calculadora",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Monitor 144hz",
+      "price": "1999.90",
+      "id": 6
+    },
+    {
+      "name": "Cachorro",
+      "price": "19999",
+      "id": 7
+    }
+  ]
+}
